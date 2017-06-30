@@ -7,6 +7,7 @@
 #####################
 # Official RO Servers
 
+# https://www.ragnarokonline.com.ph/
 [Philippines - pRO (EXE): Thor/Loki]
 ip 116.93.119.116
 port 6900
