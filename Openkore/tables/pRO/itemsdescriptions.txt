@@ -1,4 +1,4 @@
-//file start 20090317
+ï»¿//file start 20090317
 
 501#
 ^808080A potion made from ground Red Herbs.^000000
@@ -31717,7 +31717,7 @@ Weight : ^77777780^000000
 
 
 
-// ------¤Ñmobile item -------
+// ------Â¤Ã‘mobile item -------
 
 
 
@@ -32950,7 +32950,7 @@ random food item.
 ^FFFFFF ^000000
 Weight : ^77777720^000000
 #
-// -------------- Ãß°¡½ºÅ³¿ë ¾ÆÀÌÅÛ --------------
+// -------------- ÃƒÃŸÂ°Â¡Â½ÂºÃ…Â³Â¿Ã« Â¾Ã†Ã€ÃŒÃ…Ã› --------------
 
 7419#
 A reference for
@@ -33871,7 +33871,7 @@ sublimely delicious.
 ^FFFFFF ^000000
 Weight : ^7777777^000000
 #
-// ------------ ¿ä¸®Á¦Á¶ --------------
+// ------------ Â¿Ã¤Â¸Â®ÃÂ¦ÃÂ¶ --------------
 
 7472#
 Level 1 Recipes
@@ -35532,7 +35532,7 @@ Weight : ^7777770^000000
 
 #
 //--------------------11.1 Rachel------------------------
-// -------------------------- ¼ÒÄÏÀÎÃ¦Æ® ½Å±Ô¹«±âÃß°¡ ----------------------------
+// -------------------------- Â¼Ã’Ã„ÃÃ€ÃÃƒÂ¦Ã†Â® Â½Ã…Â±Ã”Â¹Â«Â±Ã¢ÃƒÃŸÂ°Â¡ ----------------------------
 
 
 
@@ -35635,10 +35635,10 @@ Thief Classes^000000
 
 
 
-// ------------------- 2006 »ó¹İ±â ½Å±Ôcard Ãß°¡.-----------------------
-//¿µ¹®±Ç 11.1 ¿¡¼­ ¾÷µ¥ÀÌÆ® Á¦¿ÜÇÏ±â·Î ÇÕ´Ï´Ù.
+// ------------------- 2006 Â»Ã³Â¹ÃÂ±Ã¢ Â½Ã…Â±Ã”card ÃƒÃŸÂ°Â¡.-----------------------
+//Â¿ÂµÂ¹Â®Â±Ã‡ 11.1 Â¿Â¡Â¼Â­ Â¾Ã·ÂµÂ¥Ã€ÃŒÃ†Â® ÃÂ¦Â¿ÃœÃ‡ÃÂ±Ã¢Â·Ã Ã‡Ã•Â´ÃÂ´Ã™.
 
-// ------------- ¾Æ·ç³ª »ó¹İ±â -----------
+// ------------- Â¾Ã†Â·Ã§Â³Âª Â»Ã³Â¹ÃÂ±Ã¢ -----------
 
 7561#
 A frozen heart that
@@ -35742,12 +35742,12 @@ You risk freezing youself if you touch it.
 
 
 
-//----------------------20060610 ½Å±ÔÃß°¡¾ÆÀÌÅÛ-------------------------
+//----------------------20060610 Â½Ã…Â±Ã”ÃƒÃŸÂ°Â¡Â¾Ã†Ã€ÃŒÃ…Ã›-------------------------
 
 
 
 
-// -------------- 2006 Ãß°¡¾ÆÀÌÅÛ -------------
+// -------------- 2006 ÃƒÃŸÂ°Â¡Â¾Ã†Ã€ÃŒÃ…Ã› -------------
 
 
 12183#
@@ -35766,7 +35766,7 @@ Weight : ^77777725^000000
 
 
 
-// ------------- ¹Ì±¹ ÇØÀûÀÇ ³¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ --------------
+// ------------- Â¹ÃŒÂ±Â¹ Ã‡Ã˜Ã€Ã»Ã€Ã‡ Â³Â¯ Ã€ÃŒÂºÂ¥Ã†Â® Â¾Ã†Ã€ÃŒÃ…Ã› --------------
 7875#
 A recovered Treasure box
 that was Lost by 
@@ -37608,7 +37608,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------------- 2006 »ó¹İ±â ½Å±Ôcard Ãß°¡.-----------------------
+// ------------------- 2006 Â»Ã³Â¹ÃÂ±Ã¢ Â½Ã…Â±Ã”card ÃƒÃŸÂ°Â¡.-----------------------
 
 
 
@@ -37620,7 +37620,7 @@ Jobs: ^777777Ninja^000000
 
 
 
-// ------------- Ã¥ÀĞ±â ----------------------
+// ------------- ÃƒÂ¥Ã€ÃÂ±Ã¢ ----------------------
 
 11001#
 A new novel from best
@@ -37701,7 +37701,7 @@ fiction author.
 Weight : ^7777771^000000
 #
 
-// ----------------------- Åä¸£È­»ê Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ----------------------- Ã…Ã¤Â¸Â£ÃˆÂ­Â»Ãª Ã„Ã¹Â½ÂºÃ†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ----------------------
 7704#
 A device that can
 measure the ground's
@@ -37723,7 +37723,7 @@ by a Geologist.
 Weight : ^7777770^000000
 #
 
-// ---------------------- Åä¸£È­»ê ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ----------------------
+// ---------------------- Ã…Ã¤Â¸Â£ÃˆÂ­Â»Ãª Â½Ã…Â±Ã” Ã€Ã¥ÂºÃ± Â¾Ã†Ã€ÃŒÃ…Ã› ----------------------
 
 
 
@@ -38445,7 +38445,7 @@ the item effect will disappear.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// ---------------- ÀÎµµ³×½Ã¾Æ °¡º­¿î Ä³½¬ ¾ÆÀÌÅÛ --------------	
+// ---------------- Ã€ÃÂµÂµÂ³Ã—Â½ÃƒÂ¾Ã† Â°Â¡ÂºÂ­Â¿Ã® Ã„Â³Â½Â¬ Â¾Ã†Ã€ÃŒÃ…Ã› --------------	
 	
 12999#	
 A box that contains	
@@ -38964,7 +38964,7 @@ Weight : ^77777750^000000
 Required Level: ^77777730^000000
 Jobs : ^777777All^000000
 #
-// ------------- 2007 ÇÒ·ÎÀ© ÃàÁ¦¸ğÀÚ ---------------
+// ------------- 2007 Ã‡Ã’Â·ÃÃ€Â© ÃƒÃ ÃÂ¦Â¸Ã°Ã€Ãš ---------------
 5356#
 A pumpkin hat for
 celebrating Halloween:
@@ -38992,7 +38992,7 @@ that have shaped
 your life.							
 ^ffffff_^000000							
 #							
-// -------- 2007 ÀÏº» ¿¬¸» Ä³½¬¾ÆÀÌÅÛ ----------							
+// -------- 2007 Ã€ÃÂºÂ» Â¿Â¬Â¸Â» Ã„Â³Â½Â¬Â¾Ã†Ã€ÃŒÃ…Ã› ----------							
 5380#							
 A gaping fish head							
 fashioned into a hat.							
@@ -39105,7 +39105,7 @@ Jobs: ^777777All^000000
 Weight : ^7777771^000000							
 #							
 			
-// ----- Å©¸®½º¸¶½º ÀÌº¥Æ® »êÅ¸ ¼ö¿° --------					
+// ----- Ã…Â©Â¸Â®Â½ÂºÂ¸Â¶Â½Âº Ã€ÃŒÂºÂ¥Ã†Â® Â»ÃªÃ…Â¸ Â¼Ã¶Â¿Â° --------					
 //5811#					
 //A beard that makes					
 //you want to laugh					
@@ -39179,7 +39179,7 @@ outside of the machine.
 Weight : ^7777770^000000							
 #
 //----------------------- 2008 Lunar New Year Event ----------
-// ----------- ´ë¸¸ Æê Ãß°¡ ------------------						
+// ----------- Â´Ã«Â¸Â¸ Ã†Ãª ÃƒÃŸÂ°Â¡ ------------------						
 9038#						
 An egg in which the						
 New Year Doll Cute						
@@ -39234,7 +39234,7 @@ Luk +21.
 ^ffffff_^000000						
 Weight : ^77777710^000000						
 #						
-//============2008 ¹Ì±¹ ¼¼ÀÎÆ®ÆĞÆ®¸¯ ÀÌº¥Æ® ¾ÆÀÌÅÛ============					
+//============2008 Â¹ÃŒÂ±Â¹ Â¼Â¼Ã€ÃÃ†Â®Ã†ÃÃ†Â®Â¸Â¯ Ã€ÃŒÂºÂ¥Ã†Â® Â¾Ã†Ã€ÃŒÃ…Ã›============					
 12715#					
 [This item will be removed
 
@@ -39275,7 +39275,7 @@ A treasure box that belongs to Leprechaun O'Riley who is in Izlude next to the a
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------------------- ¿ëº´¼ÒÈ¯¼­ -------------------------------
+// ---------------------- Â¿Ã«ÂºÂ´Â¼Ã’ÃˆÂ¯Â¼Â­ -------------------------------
 
 12153#
 Summon a 1st
@@ -39487,7 +39487,7 @@ targeted Mercenary.
 ^ffffff_^000000
 Weight : ^77777710^000000
 #
-// ------------------ ¿ëº´¿ë Æ÷¼Ç ------------------
+// ------------------ Â¿Ã«ÂºÂ´Â¿Ã« Ã†Ã·Â¼Ã‡ ------------------
 12241#
 A Concentration Potion
 for Mercenaries that
@@ -39513,7 +39513,7 @@ Attack Speed.
 Weight : ^77777720^000000
 #
 
-// ---------------- ¸±·¹ÀÌ Äù½ºÆ® ¾ÆÀÌÅÛ ------------------
+// ---------------- Â¸Â±Â·Â¹Ã€ÃŒ Ã„Ã¹Â½ÂºÃ†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ------------------
 7730#
 A ticket proving
 that the bearer has
@@ -39638,7 +39638,7 @@ a new mission.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------------- 11.3 ÀâÅÛ -------------------
+// -------------- 11.3 Ã€Ã¢Ã…Ã› -------------------
 7751#
 A worn-out white
 cloth that can be
@@ -39679,7 +39679,7 @@ Merchant NPCs.
 Weight : ^7777771^000000
 #
 
-// ------------ Äù½ºÆ® ¾ÆÀÌÅÛ -----------------
+// ------------ Ã„Ã¹Â½ÂºÃ†Â® Â¾Ã†Ã€ÃŒÃ…Ã› -----------------
 7755#
 Much of the writing
 on this note isn't
@@ -39698,7 +39698,7 @@ Weight : ^7777771^000000
 #
 
 
-// ------------------- 11.3 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ --------------------------
+// ------------------- 11.3 Â½Ã…Â±Ã” Ã€Ã¥ÂºÃ± Â¾Ã†Ã€ÃŒÃ…Ã› --------------------------
 
 
 
@@ -39936,7 +39936,7 @@ Required Level : ^77777770^000000
 Jobs: ^777777Gunslinger Job^000000
 #
 
-// ------------ 11.3 Äù½ºÆ® ¾ÆÀÌÅÛ --------------
+// ------------ 11.3 Ã„Ã¹Â½ÂºÃ†Â® Â¾Ã†Ã€ÃŒÃ…Ã› --------------
 7722#
 A loan document
 that includes the
@@ -39983,7 +39983,7 @@ seal of the King of the Rune-Midgarts Kingdom.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ----------------- 20070808 ½Å±ÔCard 34Á¾ -----------------
+// ----------------- 20070808 Â½Ã…Â±Ã”Card 34ÃÂ¾ -----------------
 
 
 
@@ -40000,7 +40000,7 @@ it's been cooked.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// ------------------- ¸¶·ÂÀÌ ±EEcardÃ¸ ------------------
+// ------------------- Â¸Â¶Â·Ã‚Ã€ÃŒ Â±ÂEÂEcardÃƒÂ¸ ------------------
 12246#
 Powerful spirits are 
 sealed within this album.  
@@ -40009,7 +40009,7 @@ if the seal is undone?
 ^ffffff_^000000
 Weight : ^7777775^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- Â¹ÃŒÂ±Â¹ Ã€ÃŒÂºÂ¥Ã†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ----------------
 5409#
 A hat, symbolizing western frontiers, made to celebrate the festival.
 Int +2 , Vit +2 , SP +50
@@ -40029,7 +40029,7 @@ Head Location : ^777777Upper-Mid-Lower^000000
 Weight : ^77777720^000000
 Job : ^777777All^000000
 #
-// -------- ¹Ì±¹ Æä½ºÆ¼¹ú Æ¼ÄÏ ----------
+// -------- Â¹ÃŒÂ±Â¹ Ã†Ã¤Â½ÂºÃ†Â¼Â¹Ãº Ã†Â¼Ã„Ã ----------
 7919#
 Evidence that you really enjoyed the festival!
 ^ffffff_^000000
@@ -40037,13 +40037,13 @@ This item cannot be dropped, traded, mailed or vended.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------				
+// -------- Â¹ÃŒÂ±Â¹ Ã€ÃŒÂºÂ¥Ã†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ----------------				
 6025#				
 A towel that helps you remember those that have passed on.				
 ^ffffff_^000000				
 Weight : ^7777770^000000				
 #
-// -------- ÃÊº¸ÀÚÁ¸ ¾ÆÀÌÅÛ -----------
+// -------- ÃƒÃŠÂºÂ¸Ã€ÃšÃÂ¸ Â¾Ã†Ã€ÃŒÃ…Ã› -----------
 12323#
 An enchanted fly's wing that instantly sends its user to a random spot when waved in the air. ^000088Instant teleport.^000000
 ^ffffff_^000000
@@ -40116,21 +40116,21 @@ A tribute to luck and fortune throughout the year.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------- ¸ğ¹ÙÀÏ °Ë»çÆí ÅÃÆ½½º ----------
+// ---------- Â¸Ã°Â¹Ã™Ã€Ã Â°Ã‹Â»Ã§Ã†Ã­ Ã…ÃƒÃ†Â½Â½Âº ----------
 
 
 
 // --------------- Package Item ----------------
 
 
-// ------------------Áß±¹ÀÌº¥Æ® ºÀ°ü--------------------
+// ------------------ÃÃŸÂ±Â¹Ã€ÃŒÂºÂ¥Ã†Â® ÂºÃ€Â°Ã¼--------------------
 
 
 // -------------- 2006 Japan Event -------------
 
 
 
-// ------------------ 2006 ÀÏº» ¾Ö´Ï¹ö¼­¸® Headgear -----------------
+// ------------------ 2006 Ã€ÃÂºÂ» Â¾Ã–Â´ÃÂ¹Ã¶Â¼Â­Â¸Â® Headgear -----------------
 5211#
 A tiny and cute hat that can decorate a part of the head.
 This hat, along with a pretty dress, makes the wearer want to go on a picnic.
@@ -40147,7 +40147,7 @@ Required Level : ^77777720^000000
 Jobs : ^777777All^000000
 #
 
-// ------------------ ºê¶óÁú °¡¹ß ½Ã¸®Áî -----------------------
+// ------------------ ÂºÃªÂ¶Ã³ÃÃº Â°Â¡Â¹ÃŸ Â½ÃƒÂ¸Â®ÃÃ® -----------------------
 5273#
 Wig with green, white and red colors.
 When equipped, increases movement speed.
@@ -40188,7 +40188,7 @@ Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
 Jobs : ^777777All^000000
 #
 
-// --------------- ºê¶óÁú Ä³½¬ ¾ÆÀÌÅÛ 20070605 ------------
+// --------------- ÂºÃªÂ¶Ã³ÃÃº Ã„Â³Â½Â¬ Â¾Ã†Ã€ÃŒÃ…Ã› 20070605 ------------
 5307#
 A hat made with tropical fruits. It looks delicious.
 MDEF + 3
@@ -40198,7 +40198,7 @@ Location : ^777777Upper^000000    Weight : ^77777740^000000
 Jobs : ^777777All^000000
 #
 
-// -------------- ÅÂ±¹ Ä³½¬¾ÆÀÌÅÛ Headgear Ãß°¡ 20070809 --------------
+// -------------- Ã…Ã‚Â±Â¹ Ã„Â³Â½Â¬Â¾Ã†Ã€ÃŒÃ…Ã› Headgear ÃƒÃŸÂ°Â¡ 20070809 --------------
 5325#
 A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
 ATK, MATK + 2%, Dex + 1
@@ -40210,7 +40210,7 @@ Required Level : ^77777710^000000
 Jobs : ^777777All^000000
 #
 
-// -------------- 2007³â 9¿ù ÀÏº» ¸ğ¹ÙÀÏ Headgear 13Á¾ -----------------
+// -------------- 2007Â³Ã¢ 9Â¿Ã¹ Ã€ÃÂºÂ» Â¸Ã°Â¹Ã™Ã€Ã Headgear 13ÃÂ¾ -----------------
 5333#
 A hat designed to transmit electric waves. Sometimes it receives electric waves from external worlds.
 MDEF + 2
@@ -40353,7 +40353,7 @@ Required Level : ^77777710^000000
 Jobs : ^777777All^000000
 #
 
-// --------- ÅÂ±¹ ¸ğÀÚ ¾ÆÀÌÅÛ -------------
+// --------- Ã…Ã‚Â±Â¹ Â¸Ã°Ã€Ãš Â¾Ã†Ã€ÃŒÃ…Ã› -------------
 5387#
 A hairband that mixes Kafra Style and Cat Hairband Style. It looks so cute!
 Inflicts a random abnormal status to an enemy when physically attacked.
@@ -40364,7 +40364,7 @@ Required Level : ^77777730^000000
 Jobs : ^777777All^000000
 #
 
-// -------------- 2008 ÀÏº» ¾ÆÀÌÅÛ Á¦ 2Åº -----------------
+// -------------- 2008 Ã€ÃÂºÂ» Â¾Ã†Ã€ÃŒÃ…Ã› ÃÂ¦ 2Ã…Âº -----------------
 5401#
 Dark-colored plastic frame Locs.
 Int + 1, MDEF + 2
@@ -40414,7 +40414,7 @@ Required Level : ^77777780^000000
 Jobs : ^777777All^000000
 #
 
-// --------------- ÇÊ¸®ÆÇ ÀÚÃ¼Á¦ÀÛ Headgear 7Á¾ -------------
+// --------------- Ã‡ÃŠÂ¸Â®Ã†Ã‡ Ã€ÃšÃƒÂ¼ÃÂ¦Ã€Ã› Headgear 7ÃÂ¾ -------------
 5372#
 A magical kitty hat which shows various expressions on its face.
 Reduces Cast Delay of all skills by 3%.
@@ -40549,7 +40549,7 @@ Jobs : ^777777All^000000
 Weight : ^7777771^000000
 #
 
-// ------¾Ëµ¥¹Ù¶õÅÍº¸Æ®·¢------
+// ------Â¾Ã‹ÂµÂ¥Â¹Ã™Â¶ÃµÃ…ÃÂºÂ¸Ã†Â®Â·Â¢------
 12016#
 A potion which increases the moving speed of a character for a set duration.
 ^ffffff_^000000
@@ -40561,7 +40561,7 @@ A potion which decreases the moving speed of a character for a set duration.
 Weight : ^77777710^000000
 #
 
-// ---------- ÇÊ¸®ÇÉ 4¿ù ¹Ú½º ÆĞÅ°Áö ----------------
+// ---------- Ã‡ÃŠÂ¸Â®Ã‡Ã‰ 4Â¿Ã¹ Â¹ÃšÂ½Âº Ã†ÃÃ…Â°ÃÃ¶ ----------------
 13994#
 A box containing 5 Speed Potions.
 ^ff0000For this item, the cancellation of purchase or refund is not allowed.^000000
@@ -40594,9 +40594,9 @@ A box that contains 1 coupon to dye your clothes to the original color.
 This item is not refundable and also not transferable.
 Weight : ^7777771^000000
 #
-// -------- ¹Ì±¹ ÀÌº¥Æ® ¾ÆÀÌÅÛ ----------------
+// -------- Â¹ÃŒÂ±Â¹ Ã€ÃŒÂºÂ¥Ã†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ----------------
 
-// ------------- ½Å±Ô ½Å±Ş ¾ÆÀÌÅÛ GOD ITEMS --------------
+// ------------- Â½Ã…Â±Ã” Â½Ã…Â±Ã Â¾Ã†Ã€ÃŒÃ…Ã› GOD ITEMS --------------
 
 
 7830#
@@ -40653,7 +40653,7 @@ You can exchange it for a gift.
 ^ffffff_^000000
 Weight : ^7777770^000000
 #
-// ---------------- Å×½ºÆ®¿ë Ä³½¬¾ÆÀÌÅÛ »óÀÚ Town B-wings -----------------
+// ---------------- Ã…Ã—Â½ÂºÃ†Â®Â¿Ã« Ã„Â³Â½Â¬Â¾Ã†Ã€ÃŒÃ…Ã› Â»Ã³Ã€Ãš Town B-wings -----------------
 13849#
 A box containing 5 scrolls on which the towns of Run Midgartz are written. You may be moving to the town when using it.
 "Prontera", "Geffen", "Payon", "Morocc", "Al De Baran", "Alberta"
@@ -40718,7 +40718,7 @@ Warning: If no town is selected, the item will disappear.
 Weight : ^7777771^000000
 #
 
-// ----------- 20071004 Ä³½Ã¾ÆÀÌÅÛ -----------
+// ----------- 20071004 Ã„Â³Â½ÃƒÂ¾Ã†Ã€ÃŒÃ…Ã› -----------
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
 Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
@@ -41036,7 +41036,7 @@ Jobs : ^777777All^000000
 #
 
 // --------------------- Ep. 12 --------------------------
-// ------------- ÀüÀå º¸»ó ¾ÆÀÌÅÛ ---------------
+// ------------- Ã€Ã¼Ã€Ã¥ ÂºÂ¸Â»Ã³ Â¾Ã†Ã€ÃŒÃ…Ã› ---------------
 13036#
 A dagger especially used for assassinations such as killing Demihumans.
 Str + 1, Agi + 1
@@ -41251,7 +41251,7 @@ A sealed paper envelope. It seems to contain an important message in it.
 Weight : ^7777771^000000
 #
 
-// ------------ ¸Ş¸ğ¸®¾ó ´øÀü º¸»óÅÛ ----------------
+// ------------ Â¸ÃÂ¸Ã°Â¸Â®Â¾Ã³ Â´Ã¸Ã€Ã¼ ÂºÂ¸Â»Ã³Ã…Ã› ----------------
 13412#
 One of the twin swords of Naght Sieger. The blue blade shows the sharpness of this sword.
 When attacking there is a chance that for 5 seconds you will completely disregard the defense of the opponent.
@@ -41280,7 +41280,7 @@ Jobs: ^777777Transcendent Swordman, Merchant, Thief Classes^000000
 
 
 
-//¸ğ·ÎÅ© ÄÁÆ¼³ÙÅ» °¡µå ÀÎÁõ¼­
+//Â¸Ã°Â·ÃÃ…Â© Ã„ÃÃ†Â¼Â³Ã™Ã…Â» Â°Â¡ÂµÃ¥ Ã€ÃÃÃµÂ¼Â­
 7826#
 It certifies that this adventurer has enough power and courage to be a member of the Continental Guard.
 ^ffffff_^000000
@@ -41289,7 +41289,7 @@ Continental Guard. Balrog.
 Weight : ^7777770^000000
 #
 
-// ------------ ¸¶¿Õ ¸ğ·ÎÅ© ----------------
+// ------------ Â¸Â¶Â¿Ã• Â¸Ã°Â·ÃÃ…Â© ----------------
 
 
 
@@ -41305,7 +41305,7 @@ Jobs: ^777777Above Transcendent 2-1 Classes^000000
 
 
 
-// ---------- ÇÒÂ¦ Å×½ºÆ® -----------
+// ---------- Ã‡Ã’Ã‚Â¦ Ã…Ã—Â½ÂºÃ†Â® -----------
 
 
 
@@ -41344,7 +41344,7 @@ Jobs : ^777777Assassin Cross^000000
 #
 
 
-// ------------- ÀüÀå ÈÖÀå ---------------
+// ------------- Ã€Ã¼Ã€Ã¥ ÃˆÃ–Ã€Ã¥ ---------------
 7828#
 A badge that is provided to warriors who have brought great honor from the Battlefield. 
 ^ffffff_^000000
@@ -41354,7 +41354,7 @@ A badge that is provided to warriors who have brought great honor from the Battl
 ^ffffff_^000000
 #
 
-// -------- ºÀÀÎÀÇ ½ÅÀü ¾ÆÀÌÅÛ ------------
+// -------- ÂºÃ€Ã€ÃÃ€Ã‡ Â½Ã…Ã€Ã¼ Â¾Ã†Ã€ÃŒÃ…Ã› ------------
 6001#
 An essence of fire that is holding the pure spirit of Thor, god of thunder. It has the mysterious force to restrain vices and darkness.
 ^ffffff_^000000
@@ -41373,14 +41373,14 @@ A pendant that was been used to confine wandered souls from unknown places.
 Weight : ^7777771^000000
 #
 
-// ----------------- ¸¶·ÂÀÌ ±êµç ¹ÙÆ÷¸ŞÆ® ÀÎÇü -----------------
+// ----------------- Â¸Â¶Â·Ã‚Ã€ÃŒ Â±ÃªÂµÃ§ Â¹Ã™Ã†Ã·Â¸ÃÃ†Â® Ã€ÃÃ‡Ã¼ -----------------
 6004#
 A Doll imbued with Baphomet's curse. It seems to be compounded with something.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
 
-// ------------------- 12.1 Äù½ºÆ® ¾ÆÀÌÅÛ ----------------------
+// ------------------- 12.1 Ã„Ã¹Â½ÂºÃ†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ----------------------
 7798#
 A dark fragment imbued with a gloomy spirit. Once you stare into it, you might feel absorbed into it.
 ^ffffff_^000000
@@ -41393,7 +41393,7 @@ You might feel a strong dangerous power from this crystal. When you are close to
 Weight : ^7777771^000000
 #
 
-// --------------- ÇÊ¸®ÇÉ ÀÚÃ¼Á¦ÀÛ Åõ±¸ 7Á¾ ----
+// --------------- Ã‡ÃŠÂ¸Â®Ã‡Ã‰ Ã€ÃšÃƒÂ¼ÃÂ¦Ã€Ã› Ã…ÃµÂ±Â¸ 7ÃÂ¾ ----
 5374#
 A headgear forged from the horns of the Unsealed Baphomet.
 Increases Physical Damage to Demihuman monsters by 12%.
@@ -41405,7 +41405,7 @@ Weight : ^77777780^000000
 Jobs: ^777777All Jobs^000000
 #
 
-// ------------------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------------
+// ------------------- Ã€ÃŒÂºÂ¥Ã†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ------------------
 6000#
 A dark ash imbued with mysterious magical power and darkness.
 ^ffffff_^000000
@@ -41442,7 +41442,7 @@ Stepmother - karma from a previous life?"
 Weight : ^7777771^000000
 #
 
-// ------------------ ÇÏ¾Ç Å×½ºÆ® (¼ÒÄÏ)----------------
+// ------------------ Ã‡ÃÂ¾Ã‡ Ã…Ã—Â½ÂºÃ†Â® (Â¼Ã’Ã„Ã)----------------
 
 
 
@@ -42334,7 +42334,7 @@ A box containing one Crown of Deceit
 Weight : ^7777771^000000
 #
 
-// 2009-01-16 ¹Ì±¹ ¿äÃ» ¾ÆÀÌÅÛ
+// 2009-01-16 Â¹ÃŒÂ±Â¹ Â¿Ã¤ÃƒÂ» Â¾Ã†Ã€ÃŒÃ…Ã›
 6125#
 A box that brings a feeling of prosperity. Every time you think about opening it you resist the temptation. Perhaps a professional ^00FF00"Gift Opener"^000000  could be of assistance.
 ^FF0000You must be above base level 40 in order to have a Gift Opener open this box^000000
@@ -42364,7 +42364,7 @@ Weight : ^7777771^000000
 ^FF0000This item can only be opened until Aug. 25, 2009^000000
 #
 
-//¹ß·»Å¸ÀÎ
+//Â¹ÃŸÂ·Â»Ã…Â¸Ã€Ã
 12742#
 A box containing a ring which is an exchanging gift for Valentine's Day.
 ^ffffff_^000000
@@ -42420,7 +42420,7 @@ Weight : ^7777770^000000
 Jobs : ^777777All Jobs^000000
 #
 
-// ----------- Æ÷¸µ´ëÀü º¸»óÇ° ¾ÆÀÌÅÛ ------------01/07/09
+// ----------- Ã†Ã·Â¸ÂµÂ´Ã«Ã€Ã¼ ÂºÂ¸Â»Ã³Ã‡Â° Â¾Ã†Ã€ÃŒÃ…Ã› ------------01/07/09
 				
 					
 
@@ -42435,19 +42435,19 @@ Jobs : ^777777All Jobs^000000
 					
 
 			
-// ---------------- Æ÷¸µÄÚÀÎ -----------------			
+// ---------------- Ã†Ã·Â¸ÂµÃ„ÃšÃ€Ã -----------------			
 7539#
 A small coin with a monster Poring engraved in it.
 ^ff0000This can be sold to NPCs^000000
 #			
 			
-// ------------- ÀüÅõÈÖÀå ---------------			
+// ------------- Ã€Ã¼Ã…ÃµÃˆÃ–Ã€Ã¥ ---------------			
 7773#			
 A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.			
 ^ffffff_^000000			
 #			
 		
-// 2009-02-16 ¹Ì±¹ º¸º´±Ã ½Ö¾î±Ã Ãß°¡			
+// 2009-02-16 Â¹ÃŒÂ±Â¹ ÂºÂ¸ÂºÂ´Â±Ãƒ Â½Ã–Â¾Ã®Â±Ãƒ ÃƒÃŸÂ°Â¡			
 5512#
 This diadem honors Aquarius, the 11th astrological sign in the zodiac calendar. Its power increases defense from Wind attacks. 
 Str + 2, FLEE + 10, 
@@ -43164,7 +43164,7 @@ Beautiful long, white colored horn with the very strong magical power. It can be
 Weight : ^7777771^000000
 #
 
-// --------- EP13 ½Å±Ô Àåºñ ¾ÆÀÌÅÛ ---------------
+// --------- EP13 Â½Ã…Â±Ã” Ã€Ã¥ÂºÃ± Â¾Ã†Ã€ÃŒÃ…Ã› ---------------
 5398#
 Headgear made of the skull of a dragon. So hard that it does not easily break.
 Str +2, MDEF +5,
@@ -43439,7 +43439,7 @@ A pie covered with sweet chocolate.  This isn't pretty but the taste is excellen
 ^ffffff_^000000
 Weight : ^77777730^000000
 
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ ----------
+// ---------- Ã…Â©Â¸Â®Â°Ã… ÂºÂ¸Â»Ã³ Â¾Ã†Ã€ÃŒÃ…Ã› ----------
 13416#
 Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
@@ -43613,7 +43613,7 @@ Job : ^777777Gunslinger^000000
 
 
 
-// ---------- Å©¸®°Å º¸»ó ¾ÆÀÌÅÛ Ãß°¡ Defense±¸ ----------
+// ---------- Ã…Â©Â¸Â®Â°Ã… ÂºÂ¸Â»Ã³ Â¾Ã†Ã€ÃŒÃ…Ã› ÃƒÃŸÂ°Â¡ DefenseÂ±Â¸ ----------
 
 
 
@@ -43624,12 +43624,12 @@ Job : ^777777Gunslinger^000000
 
 
 
-// ----------- ¿¡ÇÇ¼Òµå 13 ³¬½Ã ------------
+// ----------- Â¿Â¡Ã‡Ã‡Â¼Ã’ÂµÃ¥ 13 Â³Â¬Â½Ãƒ ------------
 
 
 
 
-// ----------- ÀÌº¥Æ® ¾ÆÀÌÅÛ ------------
+// ----------- Ã€ÃŒÂºÂ¥Ã†Â® Â¾Ã†Ã€ÃŒÃ…Ã› ------------
 
 
 
@@ -43781,7 +43781,7 @@ Weight : ^7777771^000000
 #
 
 
-//--------------------¹Ì±¹ Ä³½¬ 2009.10.07---------------------------
+//--------------------Â¹ÃŒÂ±Â¹ Ã„Â³Â½Â¬ 2009.10.07---------------------------
 
 
 
@@ -46211,6 +46211,9 @@ Defense : ^7777774^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All^000000
 Weight : ^77777730^000000
+#
+5326#
+placeholder
 #
 5328#
 placeholder
@@ -53487,7 +53490,7 @@ Contains the following:
 Weight :  ^7777771^000000
 #
 
-// ---------- Ep13.3 Äù½ºÆ®¾ÆÀÌÅÛ ------------
+// ---------- Ep13.3 Ã„Ã¹Â½ÂºÃ†Â®Â¾Ã†Ã€ÃŒÃ…Ã› ------------
 
 
 
@@ -53537,7 +53540,7 @@ An old piece of sheet music filled with notes inscribed in blue ink.
 Weight : ^7777771^000000
 #
 
-// ---------- EP13.3 ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- EP13.3 Â½Ã…Â±Ã” Â¾Ã†Ã€ÃŒÃ…Ã› ------------
 6321#
 A sturdy helm with hooked horns. Can be sold to Item Collectors.
 Weight : ^7777771^000000
@@ -53626,13 +53629,13 @@ Weapon Level : ^7777773^000000
 Required Level : ^777777105^000000
 Jobs : ^7777773rd Class Archer Type^000000
 #
-//---------- EP13.3 ¾÷µ¥ÀÌÆ® ÀÌÈÄ º¯°æ µÇ´Â ¾ÆÀÌÅÛ(±âÁ¸ ¾ÆÀÌÅÛ »èÁ¦ÇÏ°í ¾Æ·¡ Ãß°¡) ------------
-//4229 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//2140 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//2794 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//15002 ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-//1549  ´ç ¹ø¿ªÀº ÇØ´ç ¾ÆÀÌÅÛÀÇ ¿ø·¡ ÀÚ¸®·Î º¹»çµÇ°í Çö À§Ä¡´Â »èÁ¦ µÊ.
-// ----------¾Æ·¡ ¾ÆÀÌÅÛµéÀº µ¥¿ÍÅ¸ ¾÷µ¥ÀÌÆ® ½Ã¿¡µµ µé¾î°¡´Â ¾ÆÀÌÅÛµé·Î µ¥¿ÍÅ¸ ¾÷µ¥ÀÌÆ® ÀÌÈÄ¶ó¸é º°µµ·Î Ãß°¡ÇÒ ÇÊ¿ä¾øÀ½ ------------
+//---------- EP13.3 Â¾Ã·ÂµÂ¥Ã€ÃŒÃ†Â® Ã€ÃŒÃˆÃ„ ÂºÂ¯Â°Ã¦ ÂµÃ‡Â´Ã‚ Â¾Ã†Ã€ÃŒÃ…Ã›(Â±Ã¢ÃÂ¸ Â¾Ã†Ã€ÃŒÃ…Ã› Â»Ã¨ÃÂ¦Ã‡ÃÂ°Ã­ Â¾Ã†Â·Â¡ ÃƒÃŸÂ°Â¡) ------------
+//4229 Â´Ã§ Â¹Ã¸Â¿ÂªÃ€Âº Ã‡Ã˜Â´Ã§ Â¾Ã†Ã€ÃŒÃ…Ã›Ã€Ã‡ Â¿Ã¸Â·Â¡ Ã€ÃšÂ¸Â®Â·Ã ÂºÂ¹Â»Ã§ÂµÃ‡Â°Ã­ Ã‡Ã¶ Ã€Â§Ã„Â¡Â´Ã‚ Â»Ã¨ÃÂ¦ ÂµÃŠ.
+//2140 Â´Ã§ Â¹Ã¸Â¿ÂªÃ€Âº Ã‡Ã˜Â´Ã§ Â¾Ã†Ã€ÃŒÃ…Ã›Ã€Ã‡ Â¿Ã¸Â·Â¡ Ã€ÃšÂ¸Â®Â·Ã ÂºÂ¹Â»Ã§ÂµÃ‡Â°Ã­ Ã‡Ã¶ Ã€Â§Ã„Â¡Â´Ã‚ Â»Ã¨ÃÂ¦ ÂµÃŠ.
+//2794 Â´Ã§ Â¹Ã¸Â¿ÂªÃ€Âº Ã‡Ã˜Â´Ã§ Â¾Ã†Ã€ÃŒÃ…Ã›Ã€Ã‡ Â¿Ã¸Â·Â¡ Ã€ÃšÂ¸Â®Â·Ã ÂºÂ¹Â»Ã§ÂµÃ‡Â°Ã­ Ã‡Ã¶ Ã€Â§Ã„Â¡Â´Ã‚ Â»Ã¨ÃÂ¦ ÂµÃŠ.
+//15002 Â´Ã§ Â¹Ã¸Â¿ÂªÃ€Âº Ã‡Ã˜Â´Ã§ Â¾Ã†Ã€ÃŒÃ…Ã›Ã€Ã‡ Â¿Ã¸Â·Â¡ Ã€ÃšÂ¸Â®Â·Ã ÂºÂ¹Â»Ã§ÂµÃ‡Â°Ã­ Ã‡Ã¶ Ã€Â§Ã„Â¡Â´Ã‚ Â»Ã¨ÃÂ¦ ÂµÃŠ.
+//1549  Â´Ã§ Â¹Ã¸Â¿ÂªÃ€Âº Ã‡Ã˜Â´Ã§ Â¾Ã†Ã€ÃŒÃ…Ã›Ã€Ã‡ Â¿Ã¸Â·Â¡ Ã€ÃšÂ¸Â®Â·Ã ÂºÂ¹Â»Ã§ÂµÃ‡Â°Ã­ Ã‡Ã¶ Ã€Â§Ã„Â¡Â´Ã‚ Â»Ã¨ÃÂ¦ ÂµÃŠ.
+// ----------Â¾Ã†Â·Â¡ Â¾Ã†Ã€ÃŒÃ…Ã›ÂµÃ©Ã€Âº ÂµÂ¥Â¿ÃÃ…Â¸ Â¾Ã·ÂµÂ¥Ã€ÃŒÃ†Â® Â½ÃƒÂ¿Â¡ÂµÂµ ÂµÃ©Â¾Ã®Â°Â¡Â´Ã‚ Â¾Ã†Ã€ÃŒÃ…Ã›ÂµÃ©Â·Ã ÂµÂ¥Â¿ÃÃ…Â¸ Â¾Ã·ÂµÂ¥Ã€ÃŒÃ†Â® Ã€ÃŒÃˆÃ„Â¶Ã³Â¸Ã© ÂºÂ°ÂµÂµÂ·Ã ÃƒÃŸÂ°Â¡Ã‡Ã’ Ã‡ÃŠÂ¿Ã¤Â¾Ã¸Ã€Â½ ------------
 
 6437#
 A perfume made to make one smell like a Scaraba. Spraying this will help you avoid Scarabas from mobbing you.
@@ -54811,12 +54814,12 @@ Weight: ^7777771^000000
 
 6535#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas SockÂ¡Â¦ though you're sure they mean Stocking
 Weight : ^7777771^000000
 #
 6536#
 ^ff0000This item cannot be dropped, traded, mailed or vended.^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas SockÂ¡Â¦ though you're sure they mean Stocking
 Weight : ^7777771^000000
 #
 18671#
@@ -55974,7 +55977,7 @@ Weight : ^7777770^000000
 Jobs: ^777777All^000000
 #
 
-// ---------- Port Malaya ½Å±Ô ¾ÆÀÌÅÛ ------------
+// ---------- Port Malaya Â½Ã…Â±Ã” Â¾Ã†Ã€ÃŒÃ…Ã› ------------
 
 
 
@@ -59199,7 +59202,7 @@ for everyone else...^000000
 Box Weight : ^7777771^000000
 #
 
-//-------½É¿¬ÀÇÈ¸¶û Ãß°¡ ¾ÆÀÌÅÛ------------
+//-------Â½Ã‰Â¿Â¬Ã€Ã‡ÃˆÂ¸Â¶Ã» ÃƒÃŸÂ°Â¡ Â¾Ã†Ã€ÃŒÃ…Ã›------------
 
 
 
@@ -59939,7 +59942,7 @@ Weight : ^7777771^000000
 16749#
 A box that has snow crab from malangdo area (1 hour rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonÂ¡Â¦
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class : ^777777bow^000000 Attack : ^777777120^000000
@@ -59953,7 +59956,7 @@ Weight : ^7777771^000000
 16750#
 A box that has snow crab from malangdo area (7 days rental)
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonÂ¡Â¦
 LUK + 3, critical damage increase 50%.
 if base LV over100, ranged  physical Attack +20%
 Class : ^777777bow^000000 Attack : ^777777120^000000
@@ -59966,7 +59969,7 @@ Weight : ^7777771^000000
 #
 18107#
 ^000088Rental Item^000000
-Crabs usually, live in sand or mud but this is used as a bow for some odd reason¡¦
+Crabs usually, live in sand or mud but this is used as a bow for some odd reasonÂ¡Â¦
 LUK + 3, critical damage 50%.
 if base LV over100, ranged  physical Attack +20%
 Class : ^777777bow^000000 Attack : ^777777120^000000
@@ -60263,7 +60266,7 @@ Weight : ^7777775^000000
 #
 12636#
 Delicious canned food from Malangdo.
-You will think about the sea and see the sights  of  Malangdo in your mind when you eat it¡¦ Transports you to Malangdo when consumed.
+You will think about the sea and see the sights  of  Malangdo in your mind when you eat itÂ¡Â¦ Transports you to Malangdo when consumed.
 Weight : ^7777770^000000
 #
 12637#
@@ -60722,7 +60725,7 @@ Applicable Job : ^777777Ninja Class^000000
 Special Kunai designed to hold gunpowder in the handle for explosion on target and surroundings. Careful handling is required!
 Class : ^777777Throwing Weapon^000000
 Attack : ^77777750^000000
-Weight : ^7777773^000000      Property : ^777777¹«^000000
+Weight : ^7777773^000000      Property : ^777777Â¹Â«^000000
 Level Limit : ^777777100^000000
 #
 13311#
@@ -62382,7 +62385,7 @@ Weight : ^7777771^000000
 4515#
 Reduce damage from Plant type enemies by 30%.
 Class : ^777777Card^000000
-Compound on : ^777777¹æÆĞ^00000000
+Compound on : ^777777Â¹Ã¦Ã†Ã^00000000
 Weight : ^7777771^000000
 #
 4516#
@@ -64642,7 +64645,7 @@ Class: ^777777Two-handed Sword^000000 Attack : ^777777150^000000
 Weight : ^7777770^000000
 Weapon level : ^7777773^000000
 Required level : ^77777740^000000
-Job : ^777777°Ë»ç°è¿­^000000
+Job : ^777777Â°Ã‹Â»Ã§Â°Ã¨Â¿Â­^000000
 #
 2950#
 ^000088Rental Item^000000
@@ -75769,7 +75772,7 @@ Weight: ^7777771^000000
 #
 
 19914#
-^808080Airship Captain Felrock¡®s Hat^000000
+^808080Airship Captain FelrockÂ¡Â®s Hat^000000
 ^FFFFFF_^000000
 Type: Costume
 Location: Upper
@@ -75813,21 +75816,21 @@ Required Level : ^777777125^000000
 Job : ^777777All^000000
 #
 15117#
-Airship captain Felrock¡®s possessions.
+Airship captain FelrockÂ¡Â®s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 MaxHP + 500, MaxSP + 50, MDEF + 10.
 All State + 1.
 If 7 refined, MaxHP + 500, MaxSP + 50.
 If 9 refined, MaxHP + 200, MaxSP + 20.
 If 12 refined, MaxHP + 300, MaxSP + 30.
-If equipped together with Felrock¡®s Armor, Felrock¡®s Cloak, Felrock¡®s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
+If equipped together with FelrockÂ¡Â®s Armor, FelrockÂ¡Â®s Cloak, FelrockÂ¡Â®s Boots, MaxHP + 25%, MaxSP + 25%, unlimited movement acceleration, if total refined is 30 or over, additional MaxHP + 5%, MaxSP + 5%.
 Type : ^777777Armor^000000    Defense : ^77777770^000000
 Weight : ^77777775^000000
 Required Level : ^777777125^000000
 Job : ^777777All^000000
 #
 20744#
-Airship captain Felrock¡®s possessions.
+Airship captain FelrockÂ¡Â®s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 Neutral tolerance 10% increase, Flee + 20.
 Floating Casting 10% decrease.
@@ -75840,7 +75843,7 @@ Required Level : ^777777125^000000
 Job : ^777777All^000000
 #
 22047#
-Airship captain Felrock¡®s possessions.
+Airship captain FelrockÂ¡Â®s possessions.
 Resolved the airship attack incident and acquired as a trophy.
 AGI + 1, Attack rate increase (Delay after attack 5% reduction).
 If 7 refined, AGI + 1, Delay after attack extra 5% decrease
@@ -77050,7 +77053,7 @@ Take the enchantment stone inside and bring it to [Aver De Dosh] in Malangdo at 
 Weight : ^7777771^000000
 #
 19643#
-Wickebine's one of favorite ear cap. Cute and¡¦ just cute.
+Wickebine's one of favorite ear cap. Cute andÂ¡Â¦ just cute.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box5.^000000
 Class : ^777777Costume^000000 Def : ^7777770^000000
@@ -78374,7 +78377,7 @@ Job : ^777777All^000000
 #
 31123#
 Tall hat with flying Ghostring. Cute shabby tall hat.
-Wearing this hat makes feel horrifying. Well¡¦just feeling.
+Wearing this hat makes feel horrifying. WellÂ¡Â¦just feeling.
 Class : ^777777Costume^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -79004,7 +79007,7 @@ Weight: 0
 Required Monster: Scatleton
 #
 20397#
-^808080A helmet that can transform you into Jakk. It is so precise that even Jakk¡®s friends are tricked. The way it is produced is confidential...^000000
+^808080A helmet that can transform you into Jakk. It is so precise that even JakkÂ¡Â®s friends are tricked. The way it is produced is confidential...^000000
 ^FFFFFF_^000000
 Type: Headgear
 Position: Middle, Lower
@@ -80311,15 +80314,4 @@ Type: ^777777Costume equipment^000000 DEF : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Lv. req. : ^7777771^000000
 Class: ^777777All classes^000000
-#
-5326#
-^000088Rental Item^000000
-A black leather mask, shaped like butterfly wings
-Increase damage against demi-humans by 7%
-Class : ^777777Headgear^000000
-Defense: ^7777771^000000
-Location : ^777777Middle^000000
-Weight : ^7777770^000000
-Jobs: ^777777Every Job 
-except Novice^000000
 #
